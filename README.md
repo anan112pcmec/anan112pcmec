@@ -31,6 +31,6 @@ I’m a backend & frontend enthusiast, currently exploring high-performance syst
 ---
 
 ### 📫 How to reach me
-- WhatsApp: [Your Number]
-- Email: [Your Email]
+- WhatsApp: [081389709265]
+- Email: [ananlol156@gmail.com]
 - GitHub: [https://github.com/anan112pcmec](https://github.com/anan112pcmec)
