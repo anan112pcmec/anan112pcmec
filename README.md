@@ -1,6 +1,7 @@
 ## 👋 Hey, I'm Faizh
 
-Backend & frontend enthusiast exploring high-performance systems and modern web stacks.
+Backend & frontend enthusiast exploring high-performance systems and modern web stacks.  
+_"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"_   
 
 ---
 
@@ -57,12 +58,6 @@ Backend & frontend enthusiast exploring high-performance systems and modern web 
 
 ---
 
-### 🌱 Currently Learning
-![High-performance Backend](https://img.shields.io/badge/-Backend-6A5ACD?style=flat&logo=code&logoColor=white)
-![Realtime Systems](https://img.shields.io/badge/-Realtime-20B2AA?style=flat&logo=clock&logoColor=white)
-![Advanced Data Pipelines](https://img.shields.io/badge/-DataPipelines-FF8C00?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAAHElEQVQI12P4//8/w38GIAXDIBKE0DHxgljNBAAO9TXL0Y4OHwAAAABJRU5ErkJggg==)
-
----
 
 ### 📫 Contact
 ![WhatsApp](https://img.shields.io/badge/-081389709265-25D366?style=flat&logo=whatsapp&logoColor=white)
