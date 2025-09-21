@@ -14,6 +14,7 @@ I’m a backend & frontend enthusiast, currently exploring high-performance syst
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat&logo=spring&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 
 #### Tools & Databases / DevOps
 ![k6](https://img.shields.io/badge/-k6-FF6820?style=flat&logo=k6&logoColor=white)
