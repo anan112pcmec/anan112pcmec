@@ -63,8 +63,6 @@ _"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"_
 ![Email](https://img.shields.io/badge/-ananlol156@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-anan112pcmec-181717?style=flat&logo=github&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api?username=anan112pcmec&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anan112pcmec&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
