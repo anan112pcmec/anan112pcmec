@@ -20,7 +20,7 @@
   ☎️ <a href="https://wa.me/6281389709265">081389709265</a>
 </div>
 
-<table width="100%">
+<table>
   <tr>
     <td valign="top">
       
