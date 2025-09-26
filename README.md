@@ -7,7 +7,14 @@
   </a>
 </p>
 
-<small>nadia enthusiast.</small> <em style="color: #7c7c7c">"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"</em> <div style="margin-top:8px"> 🎵 <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">Monolog — Pamungkas</a> • 📫 <a href="mailto:ananlol156@gmail.com">ananlol156@gmail.com</a> • ☎️ <a href="https://wa.me/6281389709265">081389709265</a> </div>
+<small>nadia enthusiast.</small>  
+<em style="color: #7c7c7c">"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"</em>  
+
+<div style="margin-top:8px">
+  🎵 <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">Monolog — Pamungkas</a> •  
+  📫 <a href="mailto:ananlol156@gmail.com">ananlol156@gmail.com</a> •  
+  ☎️ <a href="https://wa.me/6281389709265">081389709265</a>
+</div>
 
 <table>
   <tr>
@@ -57,7 +64,6 @@
   </tr>
 </table>
 
-
 <p align="center">
   <a href="mailto:ananlol156@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -65,5 +71,4 @@
   <a href="https://github.com/faizh">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-
 </p>
