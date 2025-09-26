@@ -10,15 +10,19 @@
 <small>nadia enthusiast.</small>  
 <em style="color: #7c7c7c">"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"</em>  
 
-<div style="margin-top:8px">
+<div align="center" style="margin-top:12px">
+  <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">
+    <img src="https://i1.sndcdn.com/artworks-000606599605-gzs2k7-t500x500.jpg" alt="Monolog — Pamungkas" width="200" style="border-radius:12px" />
+  </a>  
+  <br/>
   🎵 <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">Monolog — Pamungkas</a> •  
   📫 <a href="mailto:ananlol156@gmail.com">ananlol156@gmail.com</a> •  
   ☎️ <a href="https://wa.me/6281389709265">081389709265</a>
 </div>
 
-<table>
+<table width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       
 **Frontend**  
       
@@ -29,7 +33,7 @@
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       
 **Backend**  
       
@@ -41,7 +45,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       
 **Database**  
       
@@ -51,7 +55,7 @@
 ![Meilisearch](https://img.shields.io/badge/-Meilisearch-FF3E00?style=for-the-badge&logo=meilisearch&logoColor=white)
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       
 **Tools**  
       
