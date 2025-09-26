@@ -25,7 +25,7 @@
 
 <br/>
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td valign="top">
       
