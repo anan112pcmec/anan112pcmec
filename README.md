@@ -12,9 +12,11 @@
   <em style="color: #7c7c7c">"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"</em>
 </p>
 
-<div align="center" style="margin-top:12px; display:flex; justify-content:center; align-items:center; gap:12px; flex-wrap:wrap;">
+---
+
+<div align="center" style="margin-top:12px;">
   <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">
-    <img src="https://i1.sndcdn.com/artworks-000606599605-gzs2k7-t500x500.jpg" alt="Monolog — Pamungkas" width="120" style="border-radius:12px; vertical-align:middle;" />
+    <img src="https://i1.sndcdn.com/artworks-000606599605-gzs2k7-t500x500.jpg" alt="Monolog — Pamungkas" width="120" style="border-radius:12px;" />
   </a>
   <div>
     🎵 <a href="https://open.spotify.com/track/2XPPqyi6LiRX7zM4q8pLQ8" target="_blank">Monolog — Pamungkas</a><br/>
@@ -23,9 +25,9 @@
   </div>
 </div>
 
-<br/>
+---
 
-<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px; text-align:left;">
+<div align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:40px; text-align:center;">
 
   <div>
     <b>Frontend</b><br/><br/>
@@ -62,7 +64,7 @@
 
 </div>
 
-<br/>
+---
 
 <p align="center">
   <a href="mailto:ananlol156@gmail.com">
