@@ -25,7 +25,6 @@
   </div>
 </div>
 
-<p align="center">
 ---
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -59,7 +58,6 @@
 [![Email](https://img.shields.io/badge/-ananlol156@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananlol156@gmail.com)
 [![GitHub](https://img.shields.io/badge/-anan112pcmec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anan112pcmec)
 
-</p>
 ---
 
 <p align="center">
