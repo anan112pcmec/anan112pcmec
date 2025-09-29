@@ -53,10 +53,12 @@
 
 ---
 <p align="center">
-  <!-- GitHub Stats -->
+  <!-- GitHub Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  
-  <!-- Top Languages (Donut) -->
+</p>
+
+<p align="center">
+  <!-- Top Languages Donut -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" alt="Top Languages" height="310"/>
 </p>
 
@@ -68,6 +70,11 @@
 <p align="center">
   <!-- GitHub Trophy -->
   <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
+</p>
+
+<p align="center">
+  <!-- Extra Stats: Commits, PRs, Issues, Followers -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=stars,prs,issues&title_color=ffffff&icon_color=ff7b00&text_color=ffffff&bg_color=0d1117" alt="Extra Stats" height="180"/>
 </p>
 
 
