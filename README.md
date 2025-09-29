@@ -52,31 +52,23 @@
 [![GitHub](https://img.shields.io/badge/-anan112pcmec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anan112pcmec)
 
 ---
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
 
-  <!-- GitHub Stats -->
-  <div>
+  <!-- Baris Atas: Stats + Top Languages -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" 
          alt="GitHub Stats" 
          height="310"/>
-  </div>
-
-  <!-- Top Languages (Donut) -->
-  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" 
          alt="Top Languages" 
          height="310"/>
   </div>
 
-  <!-- Streak Stats -->
-  <div>
+  <!-- Baris Bawah: Streak Stats + Trophies -->
+  <div style="display: flex; justify-content: center; gap: 20px;">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" 
          alt="GitHub Streak" 
          height="310"/>
-  </div>
-
-  <!-- GitHub Trophies -->
-  <div>
     <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" 
          alt="GitHub Trophies" 
          height="310"/>
