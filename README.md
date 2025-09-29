@@ -54,7 +54,7 @@
 ---
 <p >
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="310"/>
   
   <!-- Top Languages (Donut) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" alt="Top Languages" height="310"/>
@@ -62,10 +62,8 @@
 
 <p>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" alt="GitHub Streak" height="310"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="310"/>
 </p>
 
-<p >
-  <!-- GitHub Trophy -->
-  <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
-</p>
+
