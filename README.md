@@ -54,10 +54,6 @@
 ---
 
 <p align="center">
-  <a href="mailto:ananlol156@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/faizh">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=faizh&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizh&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
