@@ -52,33 +52,20 @@
 [![GitHub](https://img.shields.io/badge/-anan112pcmec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anan112pcmec)
 
 ---
-<table align="center">
-  <tr>
-    <!-- Kolom 1 -->
-    <td align="center">
-      <!-- GitHub Main Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-      <br/>
-      <!-- Streak Stats -->
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
-    </td>
+<p >
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  
+  <!-- Top Languages (Donut) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" alt="Top Languages" height="310"/>
+</p>
 
-    <!-- Kolom 2 -->
-    <td align="center">
-      <!-- Top Languages Donut -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" alt="Top Languages" height="310"/>
-      <br/>
-      <!-- GitHub Trophy -->
-      <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Extra Stats -->
-      <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide=stars,prs,issues&title_color=ffffff&icon_color=ff7b00&text_color=ffffff&bg_color=0d1117" alt="Extra Stats" height="180"/>
-    </td>
-  </tr>
-</table>
+<p>
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
 
-
-
+<p >
+  <!-- GitHub Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="120"/>
+</p>
