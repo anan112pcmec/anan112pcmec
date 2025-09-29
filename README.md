@@ -52,19 +52,35 @@
 [![GitHub](https://img.shields.io/badge/-anan112pcmec-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anan112pcmec)
 
 ---
-<p >
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" alt="GitHub Stats" height="310"/>
-  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anan112pcmec&show_icons=true&theme=radical" 
+         alt="GitHub Stats" 
+         height="310"/>
+  </div>
+
   <!-- Top Languages (Donut) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" alt="Top Languages" height="290"/>
-</p>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anan112pcmec&layout=donut&theme=radical" 
+         alt="Top Languages" 
+         height="310"/>
+  </div>
 
-<p>
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" alt="GitHub Streak" height="310"/>
-   
-</p>
-<img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" height="310"/>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=anan112pcmec&theme=radical&hide_border=false" 
+         alt="GitHub Streak" 
+         height="310"/>
+  </div>
 
+  <!-- GitHub Trophies -->
+  <div>
+    <img src="https://github-profile-trophy.vercel.app/?username=anan112pcmec&theme=radical&no-frame=true&row=1&column=6" 
+         alt="GitHub Trophies" 
+         height="310"/>
+  </div>
+
+</div>
 
