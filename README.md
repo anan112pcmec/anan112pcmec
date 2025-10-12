@@ -31,8 +31,6 @@
 ![SvelteKit](https://img.shields.io/badge/-SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
 ![Go + Gorm + net/http](https://img.shields.io/badge/-Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Spring Boot + Java](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![PHP + laravel](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
