@@ -7,9 +7,6 @@
   </a>
 </p>
 
-<p align="center">
-  <em style="color: #7c7c7c">"Jalan Ke Kwitang Berduaaaaaaaa Tanpaa suaraaaaaaaaaaa"</em>
-</p>
 
 ---
 
