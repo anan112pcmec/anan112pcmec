@@ -22,27 +22,27 @@
 
 ---
 
-<h2 align="center">🎨 Frontend Tools</h2>
+<h2 align="center">Frontend Tool</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" style="border-radius:10px;"/>
 </p>
 
-<h2 align="center">⚙️ Backend Languages</h2>
+<h2 align="center">Backend Lang</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="border-radius:10px;"/>
 </p>
 
-<h2 align="center">🔌 Communication / RPC</h2>
+<h2 align="center">RPC</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/RESTful%20API-02569B?style=for-the-badge&logo=swagger&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/Protobuf-4A8FDC?style=for-the-badge&logo=protobuf&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" style="border-radius:10px;"/>
 </p>
 
-<h2 align="center">🗄️ Databases</h2>
+<h2 align="center">Databases</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" style="border-radius:10px;"/>
@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white" style="border-radius:10px;"/>
 </p>
 
-<h2 align="center">🧪 Testing & Monitoring</h2>
+<h2 align="center">Testing & Monitoring</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" style="border-radius:10px;"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" style="border-radius:10px;"/>
@@ -60,7 +60,7 @@
 
 ---
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="center">Contact</h2>
 <p align="center">
   <a href="https://wa.me/6281389709265">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="border-radius:10px;"/>
