@@ -4,21 +4,23 @@
 
 Software Engineer
 
-Building reliable software and scalable systems.
+Membangun software yang andal dan sistem yang dapat berkembang seiring kebutuhan.
 
 <br>
+
+<h2>Stack Andalan</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,svelte,go,postgresql" height="52" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="52" />
+  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="52" />
   &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="52" />
 </p>
 
 <br>
 
-Frontend · Backend · Databases · Messaging
+Frontend · Backend · Database · Message Broker
 
 <br>
 
@@ -28,25 +30,25 @@ Frontend · Backend · Databases · Messaging
 
 ---
 
-### About
+### Tentang Saya
 
-I develop software across the entire application stack, from user-facing interfaces to backend services, database design, and distributed systems.
+Saya mengembangkan aplikasi dari ujung ke ujung, mulai dari antarmuka pengguna, layanan backend, desain database, hingga komunikasi antar layanan.
 
-My focus is building solutions that are reliable, maintainable, and scalable as requirements evolve.
+Fokus saya adalah membangun solusi yang mudah dirawat, stabil digunakan, dan tetap nyaman dikembangkan seiring bertambahnya kebutuhan sistem.
 
 ---
 
-### Principles
+### Prinsip
 
-* Simplicity over complexity
-* Maintainability over shortcuts
-* Reliability over hype
-* User value over technical novelty
+* Kesederhanaan lebih baik daripada kompleksitas yang tidak perlu
+* Kode yang mudah dirawat lebih berharga daripada jalan pintas
+* Keandalan lebih penting daripada mengikuti tren
+* Teknologi adalah alat, nilai untuk pengguna adalah tujuan
 
 ---
 
 <div align="center">
 
-*"Good software remains understandable long after it has been written."*
+*"Software yang baik tetap mudah dipahami bahkan lama setelah selesai ditulis."*
 
 </div>
