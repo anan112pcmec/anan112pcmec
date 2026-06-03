@@ -8,21 +8,6 @@ Membangun software yang andal dan sistem yang dapat berkembang seiring kebutuhan
 
 <br>
 
-<h2>Stack Andalan</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,svelte,go,postgresql" height="52" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" height="52" />
-  &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" height="52" />
-</p>
-
-<br>
-
-Frontend · Backend · Database · Message Broker
-
-<br>
 
 <a href="mailto:ananlol156@gmail.com">Email</a> · <a href="https://github.com/anan112pcmec">GitHub</a>
 
