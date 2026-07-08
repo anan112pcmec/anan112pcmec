@@ -25,14 +25,19 @@ Fokus saya adalah membangun solusi yang mudah dirawat, stabil digunakan, dan tet
 
 ### Prinsip
 
-* Kesederhanaan lebih baik daripada kompleksitas yang tidak perlu
-* Kode yang mudah dirawat lebih berharga daripada jalan pintas
+* Readability over abstraction
+* Gasuka magic
 * Keandalan lebih penting daripada mengikuti tren
-* Teknologi adalah alat, nilai untuk pengguna adalah tujuan
+* Teknologi adalah alat
+* 
 
 ---
 
+
+
 <div align="center">
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anan112pcmec&layout=compact&theme=visual_studio&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 *"Software yang baik tetap mudah dipahami bahkan lama setelah selesai ditulis."*
 
