@@ -37,8 +37,6 @@ Fokus saya adalah membangun solusi yang mudah dirawat, stabil digunakan, dan tet
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=anan112pcmec&layout=compact&theme=visual_studio&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-
 *"Software yang baik tetap mudah dipahami bahkan lama setelah selesai ditulis."*
 
 </div>
