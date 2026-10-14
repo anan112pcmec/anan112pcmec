@@ -28,11 +28,17 @@ Fokus saya adalah membangun solusi yang mudah dirawat, stabil digunakan, dan tet
 * Readability over abstraction
 * Gasuka magic
 * Keandalan lebih penting daripada mengikuti tren
-* Teknologi adalah alat
-* 
+* Teknologi adalah alat 
 
 ---
 
+
+### Sertifikasi
+<div align="center">
+  <a href="./certificates/ibm-skillsbuild.pdf">
+      <img width="3300" height="2550" alt="BuildanAIAgent_Badge20261014-20-y9vtc3_page-0001" src="https://github.com/user-attachments/assets/d40f7eed-6320-4eb1-9168-8380ff6bb29b" />
+  </a>
+</div>
 
 
 <div align="center">
